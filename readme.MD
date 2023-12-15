@@ -1,6 +1,6 @@
 This repository is my submission for the True Beacon Quant Research Intern Assignment. The task was to create a model to predict the spread between the NIFTY and Bank NIFTY indices. The repository contains the following files:
 
--final.ipynb : A notebook with the code for the models and analysis.
+- final.ipynb : A notebook with the code for the models and analysis.
 - summary.txt : A text file with the model performance metrics and an overall analysis of the models.
 
 
